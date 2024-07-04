@@ -1,5 +1,5 @@
 :root {
-    --primary-color: CornflowerBlue;
+    --primary-color: azure;
     --highlight-color: 	aliceblue;
     --button-color:DarkGoldenrod;
     --font-family-main: 'Garamond', serif;
@@ -16,7 +16,7 @@ body {
     margin: 0;
     padding: 20px;
     line-height: 1.6;
-    background-image: url(/images/1.png);
+    background-image: url(/images/3.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -41,7 +41,7 @@ a:hover {
 
 .contenedor-play h1 {
     font-family: var(--font-family-secondary);
-    color: CornflowerBlue;
+    color: azure;
     font-size: 30px;
     font-weight: 100;
     margin-top: 5px;
@@ -74,7 +74,7 @@ a:hover {
     font-family: var(--font-family-secondary);
     margin-top: 10px;
     font-size: 70px;
-    color: CornflowerBlue;
+    color: azure;
     font-weight: 100;
 }
 
@@ -148,7 +148,7 @@ a:hover {
 
 .contenedor-central h3 {
     font-family: var(--font-family-main);
-    color:  CornflowerBlue;
+    color:  azure;
     font-size: 30px;
     margin: 40px;
     font-weight: 400;
@@ -204,13 +204,13 @@ a:hover {
 
 .card h1 {
     font-family: var(--font-family-secondary);
-    color: CornflowerBlue;
+    color: midnightblue;
     font-size: 40px;
 }
 
 .card h2 {
     font-family: var(--font-family-main);
-    color: CornflowerBlue;
+    color: midnightblue;
     font-size: 17px;
     margin-top: -10px;
     font-weight: 300;
@@ -219,7 +219,7 @@ a:hover {
 
 .card h3 {
     font-family: var(--font-family-main);
-    color: CornflowerBlue;
+    color: midnightblue;
     font-size: 16px;
     margin-top: -5px;
     font-weight: 300;
@@ -229,7 +229,7 @@ a:hover {
 .card h4 {
     font-family: var(--font-family-main);
     font-weight: 300;
-    color: CornflowerBlue;
+    color: midnightblue;
     font-size: 16px;
     margin-top: -35px;
     font-style: oblique;
@@ -353,23 +353,23 @@ h6 {
         grid-template-columns: 1fr;
     }
     .card h1{
-        color: CornflowerBlue;
+        color: midnightblue;
         font-size: 36px;
         margin-bottom: 20px;
     }
     .card h2{
-        color: CornflowerBlue;
+        color: midnightblue;
         font-size: 20px;
         font-style: oblique;
         margin-top: 10px;
     }
     .card h3{
-        color: CornflowerBlue;
+        color: midnightblue;
         font-size: 18px;
         margin-top: 10px;
     }
     .card h4{
-        color: CornflowerBlue;
+        color: midnightblue;
         font-size: 16px;
         margin-top: 10px;
     }
